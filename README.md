@@ -1,7 +1,6 @@
 # Turfsport RAP Team Technical Assesment
 Technical Assessment for the Regression and Performance Team at Turfsport
 
-
 ## General Programming test
 
 ### Objective
